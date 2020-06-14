@@ -39,7 +39,7 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="240dp"
-
+                            android:background="@color/colorPrimary"
                             android:padding="10dp"/>
                         <View
                             android:layout_width="match_parent"
@@ -71,6 +71,7 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="240dp"
+                            android:background="@color/colorPrimary"
                             android:padding="10dp"/>
                         <View
                             android:layout_width="match_parent"
@@ -109,6 +110,7 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="240dp"
+                            android:background="@color/colorPrimary"
                             android:padding="10dp"/>
                         <View
                             android:layout_width="match_parent"
@@ -140,6 +142,7 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="240dp"
+                            android:background="@color/colorPrimary"
                             android:padding="10dp"/>
                         <View
                             android:layout_width="match_parent"
