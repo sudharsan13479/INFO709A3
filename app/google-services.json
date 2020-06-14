@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "467002826256",
+    "firebase_url": "https://nz-book-lovers-c5e81.firebaseio.com",
+    "project_id": "nz-book-lovers-c5e81",
+    "storage_bucket": "nz-book-lovers-c5e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467002826256:android:875f3c6d82a39dfb837495",
+        "android_client_info": {
+          "package_name": "com.example.nzbook.reviewpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467002826256-1gkd0bn6elelc6bruemdmmt9nlr80541.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2akBGVhgm4UR5V52LP21J01yq6WU71gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467002826256-1gkd0bn6elelc6bruemdmmt9nlr80541.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
